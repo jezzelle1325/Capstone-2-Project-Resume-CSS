@@ -1,0 +1,193 @@
+
+hr {
+  border: 0; /* Remove the default border */
+  height: 1px; /* Set the height of the line */
+  background-color: #333; /* Choose your desired line color */
+  margin: 20px 0; /* Add spacing above and below the line */
+margin-bottom: 40px!important;
+}
+
+/* Introduction CSS Part  */
+
+.fw-bold {
+  font-weight: 500 !important;
+}
+
+#introduction {
+  background: linear-gradient(to bottom, #c7f0db, #6fc6b5);
+}
+
+.display-5 {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.lead {
+  margin-top: 25px !important;
+  font-weight: 400;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+.py-5 {
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+  margin-bottom: 50px!important;
+}
+
+/* Education, Work Experience, Skills CSS Part */
+
+
+
+
+.education,
+.work-experience,
+.skills {
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.bi {
+  padding: 5px;
+  background-color: rgb(151, 207, 67);
+}
+
+.secondary-skills {
+  font-style: italic;
+  font-weight: bold;
+  margin-bottom: 2px;
+}
+
+#soft-tech-skills {
+  margin-bottom: 10px;
+}
+
+.educ-work-skills {
+  margin-top: 20px;
+}
+
+/* Projects CSS Part */
+
+.card {
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.card:hover {
+  transform: scale(1.05); /* Add a slight scale effect on hover */
+}
+
+.card-text {
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.projects-text {
+  font-size: 40px; /* Adjust the font size as needed */
+  font-weight: bold;
+  text-align: center; /* Center the text */
+  color: #333; /* Text color */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); /* Text shadow */
+  margin-bottom: 60px; /* Add some spacing to the bottom */
+}
+
+
+
+/* About me CSS Part */
+.projects-text-about-me {
+  font-size: 40px; /* Adjust the font size as needed */
+  font-weight: bold;
+  text-align: center; /* Center the text */
+  color: #333; /* Text color */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); /* Text shadow */
+  margin-bottom: 60px; /* Add some spacing to the bottom */
+  
+}
+
+
+#about-me-sect{
+  margin-bottom: 0px !important;
+}
+
+.p-5{
+  padding-top: 0px !important;
+}
+
+.d-md-flex {
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.hobby{
+  width: 500px;
+}
+
+.container-fluid-2{
+  display: flex;
+}
+
+.col-md-8{
+  width:30%!important;
+  margin-left: 600px;
+  margin-right: 200px;
+}
+
+.display-5{
+  font-family:'Times New Roman', Times, serif ;
+  font-style: italic;
+  font-variant: small-caps;
+  margin-left: 600px;
+  margin-bottom: 50px;
+}
+
+.bg-body-tertiary{
+  /* background-color: rgba(250, 250, 250, 0.805)!important; */
+  background-color: white!important;
+}
+
+.bg-body-tertiary-2{
+  /* background-color: rgba(250, 250, 250, 0.805)!important; */
+  background-color: white!important;
+}
+
+strong{
+  font-style: italic;
+}
+
+/* Footer CSS Part */
+
+
+.text-muted{
+font-size: 20px;
+}
+
+.footer{
+  background-color: rgba(250, 250, 250, 0.805)!important;
+  background-size: cover;
+  padding-top: 2rem!important;
+  padding-bottom:2rem!important;
+}
+
+
+
+/* Contact Us CSS Part */
+
+.text-success{
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+  font-weight: 400;
+  font-size: 40px;
+}
+
+
+/*Contact US Button CSS Part */
+
+.display-5-contact-us{
+  font-family:'Times New Roman', Times, serif ;
+  font-style: italic;
+  font-variant: small-caps;
+}
+
+a{
+  text-decoration: none!important;
+  color: white!important;
+}
